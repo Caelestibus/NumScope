@@ -1,6 +1,6 @@
 #### NumScope
 
-##### _This project is a customized version of the open-source PhoneInfoga tool, tailored for use in a secure, offline lab environment without the web interface. The main goal of this project was to gather useful intelligence using a phone number as an entry point, as part of reconnaissance training and information gathering in cybersecurity exercises_.
+##### _This project is a customized version of the open-source PhoneInfoga tool, tailored for use in a secure, offline lab environment without the web interface. The main goal of this project was to gather useful intelligence using a phone number as an entry point, as part of reconnaissance training and information gathering in Pentesting exercises_.
 ---
 
 #### What I Did
